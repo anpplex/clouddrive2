@@ -45,7 +45,7 @@
 
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" | bash -s install mirror
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2.sh" | bash -s install mirror
 # 代理
 curl -fsSL "https://raw.githubusercontent.com/lonelylose/clouddrive2/main/cd2.sh" | bash -s install
 ```
@@ -53,9 +53,9 @@ curl -fsSL "https://raw.githubusercontent.com/lonelylose/clouddrive2/main/cd2.sh
 ### 卸载命令
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" | bash -s uninstall mirror
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2.sh" | bash -s uninstall mirror
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" | bash -s uninstall
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2.sh" | bash -s uninstall
 ```
 
 ## 安卓
@@ -65,27 +65,27 @@ curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" |
 - 以下命令2选1  
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s install mirror
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s install mirror
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s install
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s install
 ```
 
 ### 安装 (已ROOT设备)
 - 以下命令2选1  
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s install root mirror
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s install root mirror
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s install root
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s install root
 ```
 
 ### 卸载
 - 以下命令2选1  
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s uninstall
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s uninstall
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termux.sh" | bash -s uninstall
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/cd2-termux.sh" | bash -s uninstall
 ```
 
 ## 一键开启 SMB 与 NFS 共享
@@ -98,18 +98,18 @@ curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2-termu
 - 以下命令2选1  
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/shares.sh" | bash -s shares
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/shares.sh" | bash -s shares
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/shares.sh" | bash -s shares
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/shares.sh" | bash -s shares
 ```
 
 ### 还原共享
 - 以下命令2选1  
 ```shell
 # 国内加速(推荐)
-curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/shares.sh" | bash -s unshares
+curl -fsSL "https://mirror.ghproxy.com/https://raw.githubusercontent.com/anpplex/clouddrive2/main/shares.sh" | bash -s unshares
 # 代理
-curl -fsSL "https://raw.githubusercontent.com/sublaim/clouddrive2/main/shares.sh" | bash -s unshares
+curl -fsSL "https://raw.githubusercontent.com/anpplex/clouddrive2/main/shares.sh" | bash -s unshares
 ```
 
 
